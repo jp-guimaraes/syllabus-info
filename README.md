@@ -1,1 +1,1 @@
-# syllabus-info
+# syllabus-orgman
