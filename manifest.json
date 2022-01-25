@@ -1,0 +1,15 @@
+{
+  "name": "Informática",
+  "short_name": "Informática",
+  "start_url": "/syllabus-informatica/",
+  "scope": "/syllabus-informatica/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/syllabus-informatica/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
