@@ -1,45 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://jp-guimaraes.github.io/syllabus-info/docs/1-sistemas-operacionais/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jp-guimaraes.github.io/syllabus-info/docs/2-world-wide-web/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jp-guimaraes.github.io/syllabus-info/docs/3-processador-de-texto/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jp-guimaraes.github.io/syllabus-info/docs/4-apresentador-de-slides/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jp-guimaraes.github.io/syllabus-info/docs/5-planilhas-eletr%C3%B4nicas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jp-guimaraes.github.io/syllabus-info/docs/momentos-s%C3%ADncronos/</loc>
-  </url>
-  
   <url>
     <loc>https://jp-guimaraes.github.io/syllabus-info/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jp-guimaraes.github.io/syllabus-info/docs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-guimaraes.github.io/syllabus-info/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jp-guimaraes.github.io/syllabus-info/tags/</loc>
   </url>
-  
 </urlset>
