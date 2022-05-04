@@ -5,96 +5,14 @@
     <link>https://jp-guimaraes.github.io/syllabus-info/docs/</link>
     <description>Recent content in Docs on Informática</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://jp-guimaraes.github.io/syllabus-info/docs/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/syllabus-info/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://jp-guimaraes.github.io/syllabus-info/docs/1-sistemas-operacionais/</link>
+      <title>Slides</title>
+      <link>https://jp-guimaraes.github.io/syllabus-info/docs/slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/syllabus-info/docs/1-sistemas-operacionais/</guid>
-      <description>Sistemas Operacionais Conteúdos: Introdução aos Sistemas Operacionais; Fundamentos e Funções; Sistemas Operacionais existentes;
-Vídeo introdutório - Aspectos teóricos   Link: https://youtu.be/ZuTW8jBsU88
-Slides: https://jp-guimaraes.github.io/informatica/02_sistemas_operacionais/#/
-Fonte dos slides: https://github.com/jp-guimaraes/informatica/tree/main/02_sistemas_operacionais
-Área de Trabalho - Desktop   Link: https://youtu.be/E4sDXc1c2SE
-Área de trabalho - Smartphones   Link: https://youtu.be/digXKKLnHzs
-Gerenciador de pastas e arquivos   https://youtu.be/2ix326cuQtg
-Compactadores de arquivos - Desktop   Link: https://youtu.be/ye_gVRucG0M
-Compactadores de arquivos - Smartphone   Link: https://youtu.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jp-guimaraes.github.io/syllabus-info/docs/2-world-wide-web/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/syllabus-info/docs/2-world-wide-web/</guid>
-      <description>World Wide Web (WWW) Conteúdos: Navegadores; Sistema acadêmico; Pesquisa de informações; Download de Arquivos; Correio Eletrônico; Grupos/listas de discussão&amp;rsquo;; Redes Sociais; Ética; Segurança da Informação
-Introdução a Internet O canal do Youtube TecMundo produziu um conteúdo bem interessante com o histórico da Internet:
-  Link: https://www.youtube.com/watch?v=pKxWPo73pX0&amp;amp;ab_channel=TecMundo
-Navegadores   Link: https://youtu.be/OY8TlMdYZEg
-Youtube   Link: https://youtu.be/vcajM0FxhrM
-Utilitários (SUAP, Google Sala de Aula, Microsoft Teams)   Link: https://www.youtube.com/watch?v=2ElXHJ26shM
-Google - Pesquisa de informações   Link: https://youtu.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jp-guimaraes.github.io/syllabus-info/docs/3-processador-de-texto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/syllabus-info/docs/3-processador-de-texto/</guid>
-      <description>Processador de Texto Conteúdos: Visão geral do Software; Digitação e movimentação de texto; Atalhos de teclado; Nomear, gravar e encerrar sessão de trabalho; Formatação de página, texto, parágrafos e colunas; Software de Edição de Texto; Correção ortográfica e dicionário; Inserção de quebra de página e coluna; Listas, marcadores e numeradores; Figuras, objetos e tabelas
-Introdução Assunto vai abordar tanto o Microsoft Word quanto no Google Docs em vídeos curtos e separados</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jp-guimaraes.github.io/syllabus-info/docs/4-apresentador-de-slides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/syllabus-info/docs/4-apresentador-de-slides/</guid>
-      <description>Conteúdos: Visão geral do Software, Assistente de criação, Modos de exibição de slides, Formatação de slides, Impressão de slides, Listas, formatação de textos, inserção de desenhos, figuras, som, Vídeo, inserção de gráficos, organogramas e fluxogramas, Slide Mestre, Efeitos de transição e animação de slides
-Introdução Os vídeos vão abordar tanto o Microsoft Power Point quanto o Google Presentation em vídeos curtos e separados usando uma meta apresentação, ou seja, uma apresentação sobre apresentações.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jp-guimaraes.github.io/syllabus-info/docs/5-planilhas-eletr%C3%B4nicas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/syllabus-info/docs/5-planilhas-eletr%C3%B4nicas/</guid>
-      <description>Conteúdos: Visão geral; Formatação células; Fórmulas e funções; Classificação e filtro de dados; Formatação condicional; Gráficos
-Introdução Os vídeos vão abordar tanto o Microsoft Excel quanto o Google Spreedsheet em vídeos curtos e separados. Começamos com o básico sobre células.
-  Link: https://youtu.be/POLEb3_zlx0
-Introdução às fórmulas Excel: https://youtu.be/ie9EXyLGRvM
-  Sheets: https://youtu.be/DQyYiXBIM68
-  Funções Spreedsheet: https://youtu.be/F6awzbi10Pg
-  Excel: https://youtu.be/A3LNDaRl0-o
-  Formatação de células Excel: https://youtu.be/w-USsD2qoSk
-  Sheets: https://youtu.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jp-guimaraes.github.io/syllabus-info/docs/momentos-s%C3%ADncronos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/syllabus-info/docs/momentos-s%C3%ADncronos/</guid>
-      <description>Aula 01 - 26.01.2022   Link: https://youtu.be/ZTtiTl4G2ks
-Slides: Aula 0 e Aula 1
-Conteúdos vistos: Introdução à disciplina; Hardware/Software; Informática;
-Quadro:
-Material complementar: Links dos slides; Capítulo 7 - Sapiens (disponível no Teams); Teste objetivo (disponível no Teams); Leitura complementar - História do Computador em 10 tópicos
- Aula 02 - 02.02.2022   Link: https://youtu.be/CxkmWefnPM0
-Slides: Aula 2
-Conteúdos vistos: Sistemas Operacionais, internet
-Quadro:
-Material complementar: Links dos slides; Teste objetivo (disponível no Teams);</description>
+      <guid>https://jp-guimaraes.github.io/syllabus-info/docs/slides/</guid>
+      <description>Introdução à Informática</description>
     </item>
     
   </channel>
